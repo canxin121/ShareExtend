@@ -6,7 +6,6 @@
 
 import 'dart:async';
 import 'package:flutter/services.dart';
-import 'dart:ui';
 
 /// Plugin for summoning a platform share sheet.
 class ShareExtend {
